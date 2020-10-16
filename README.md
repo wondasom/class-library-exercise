@@ -1,4 +1,4 @@
-# classLibrary
+# Class Library Exercise
 INTERMEDIATE JAVASCRIPT Exercise - Class
 
 
